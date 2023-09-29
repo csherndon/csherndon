@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently taking classes to fine tune visual design skills and frontend web developer skills.
+- 🔭 I’m currently taking classes to fine tune visual design skills as well as frontend web developer skills.
 - 🌱 My current skills are CMS editing, website technical suport and training.
 
 <!--
