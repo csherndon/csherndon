@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently taking classes to fine tune visual design skills and frontend web developer skills.
+- 🌱 My current skills are CMS editing, website technical suport and training.
 
 <!--
 **csherndon/csherndon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
